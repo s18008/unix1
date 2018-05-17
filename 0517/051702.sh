@@ -1,2 +1,2 @@
 #! /bin/bash
-mkdir dir{1..3}
+mkdir -p dir1/dir2/dir3 

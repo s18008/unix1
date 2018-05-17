@@ -1,2 +1,2 @@
 #! /bin/bash
-rm dir3/file{1..5}
+rm dir1/dir2/dir3/file{1..5}

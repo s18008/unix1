@@ -1,2 +1,2 @@
 #! /bin/bash
-touch dir3/file{1..10}
+touch dir1/dir2/dir3/file{1..10}
