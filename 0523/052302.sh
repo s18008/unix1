@@ -1,4 +1,4 @@
 #! /bin/bash
 
-find ~ | xargs du -b | sort -n|tac |head -5
+find ~ -type f | xargs du -b | sort -n|tac |head -5
 
