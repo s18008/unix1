@@ -1,3 +1,3 @@
 #! /bin/bash
-
-mv dir1/file{6..10} dir1/dir2/
+cd dir1
+mv file{6..10} dir2/
